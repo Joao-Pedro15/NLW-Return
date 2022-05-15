@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .button{
+    @apply bg-violet-500 px-4 h-10 rounded;
+} */
+/* Pode usar dessa maneira do tailwind */
+ /* Pode se usar assim tbm bg-[#000] */
